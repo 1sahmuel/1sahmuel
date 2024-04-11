@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋 I'm Samuel Olubunmi
+Aspiring Data Scientist | Machine Learning Enthusiast | Open Source Contributor
 
-<!--
-**1sahmuel/1sahmuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm passionate about leveraging data to solve real-world problems. My journey in data science began with a curiosity for patterns and a love for coding. Whether it's predicting movie ratings, analyzing social media trends, or building recommendation systems, I thrive on turning data into actionable insights.
 
-Here are some ideas to get you started:
+## 🌱 Learning
+I'm currently diving deeper into:
+- Python for Data science
+- Structured Query Language
+- Machine Learning for AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/olubunmi-samuel
+- Twitter: @1sahmuel (https://twitter.com/1sahmuel
+
+Feel free to explore my repositories, contribute, and connect! Let's learn and grow together. 🚀
+
